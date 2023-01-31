@@ -4,3 +4,5 @@ Códigos em Python desenvolvidos durante a Tese de Doutorado com título “Inse
 O arquivo com nome "CÓDIGO TESE - PARTE 1" teve por objetivo caracterizar a produtividade da sojicultura em Mato Grosso do Sul e sua relação com a Temperatura da Superficie do Mar (TSM) e para isso foi utilizado a Análise Exploratória de Dados e Teste de Hipótese da Correlação.
 
 O arquivo com nome "CÓDIGO TESE - PARTE 2" teve por objetivo avaliar o grau de significância do fator clima da PTF da soja e propor um modelo regressivo para rendimento (kg/ha) pelo Método Minimos Quadrados Ordinários. O modelo foi válido por não ter pressupostos violados.
+
+Fonte dos Dados: PAM-IBGE, Censo Agropecuário 2006 e 2017, Ipeadata, CPC/NOAA e ERA5/meteoblue.
