@@ -153,6 +153,7 @@ Inteligência Artificial • Machine Learning • Agricultura • Soja • Estia
 ## Autora
 
 **Franciane Rodrigues**
+
 Doutora em Administração
 
 Escola de Administração e Negócios (ESAN)
