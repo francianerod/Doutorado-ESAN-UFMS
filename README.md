@@ -154,5 +154,7 @@ Inteligência Artificial • Machine Learning • Agricultura • Soja • Estia
 
 **Franciane Rodrigues**
 Doutora em Administração
+
 Escola de Administração e Negócios (ESAN)
+
 Universidade Federal de Mato Grosso do Sul (UFMS)
